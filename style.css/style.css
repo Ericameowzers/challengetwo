@@ -1,0 +1,12 @@
+.header {
+    padding: 20px;
+     
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    
+}
+#image {
+    text-size-adjust: 40px;
+    background-image: url("images/leafbackground.jpg");
+}
